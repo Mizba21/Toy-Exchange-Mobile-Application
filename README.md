@@ -1,4 +1,4 @@
-# ToyExchange
+# Toy Exchange Mobile Application
 
 ## Introduction
 It is  a mobile application where the customers can buy and sell toys. There exists no system for exclusive trade of toys. This can be ideal for new parents or those whose children have grown past the age to use certain toys.
